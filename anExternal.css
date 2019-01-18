@@ -10,7 +10,7 @@ body {
     color: tomato;
   }
 img {
-    float: left;
+    float: right;
 }
   #rcorners1 {
     border-radius: 25px;
