@@ -9,7 +9,9 @@ body {
   h3 {
     color: tomato;
   }
-
+img {
+    float: left;
+}
   #rcorners1 {
     border-radius: 25px;
     background: #73AD21;
