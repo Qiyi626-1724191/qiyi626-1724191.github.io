@@ -8,10 +8,12 @@
 
 #Content{
     Border: solid 8px black;
+    width: 700px;
 }   
 
 #LeftNav{
     Border: solid 8px black;
+    width: 700px;
 }
 
 #Footer{
