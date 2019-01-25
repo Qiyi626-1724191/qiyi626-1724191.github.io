@@ -1,0 +1,19 @@
+#Header{
+    Border: solid 8px black;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+#Content{
+    Border: solid 8px black;
+}   
+
+#LeftNav{
+    Border: solid 8px black;
+}
+
+#Footer{
+    Border: solid 8px black;
+}
