@@ -7,7 +7,7 @@
 	{
 		margin: 0px;
 		padding: 0px;
-		background: yellow;
+		background: rgb(119, 119, 75);
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 14pt;
 		font-weight: 300;
@@ -448,7 +448,7 @@
 		text-transform: uppercase;
 		font-size: 1.8em;
 		font-weight: 300;
-		color: #40493C;
+		color: rgb(175, 216, 158);
 	}
 
 	#featured img
